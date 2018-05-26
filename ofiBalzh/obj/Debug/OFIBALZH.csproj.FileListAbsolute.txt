@@ -1,0 +1,79 @@
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.config
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.ResolveComReference.cache
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.manifest
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.application
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.pdb
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\AForge.Video.DirectShow.dll
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\AForge.Video.dll
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\AForge.dll
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\AForge.Video.xml
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\AForge.Video.DirectShow.xml
+F:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\AForge.xml
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csprojResolveAssemblyReference.cache
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmGenerica.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmIdentidad.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmInicio.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmOficioComision.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmPatenteGanadero.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmmenuGrafico.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmReporteFierroQuemador.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmReportes.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.Properties.Resources.resources
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.GenerateResource.Cache
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.TrustInfo.xml
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe.manifest
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.application
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe
+F:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.pdb
+G:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.config
+G:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.ResolveComReference.cache
+G:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe
+G:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.pdb
+H:\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.config
+H:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.ResolveComReference.cache
+H:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe
+H:\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.pdb
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.config
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.ResolveComReference.cache
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.pdb
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.manifest
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.application
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.pdb
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmGenerica.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmIdentidad.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmInicio.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmOficioComision.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmPatenteGanadero.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmmenuGrafico.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmReporteFierroQuemador.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmReportes.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.Properties.Resources.resources
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.GenerateResource.Cache
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.TrustInfo.xml
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe.manifest
+C:\Users\Administracion\Documents\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.application
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.config
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.ResolveComReference.cache
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.pdb
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe.manifest
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.application
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.exe
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\bin\Debug\ofiBalzh.pdb
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmGenerica.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmIdentidad.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmInicio.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmOficioComision.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmPatenteGanadero.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmmenuGrafico.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmReporteFierroQuemador.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.frmReportes.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.Properties.Resources.resources
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csproj.GenerateResource.Cache
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.TrustInfo.xml
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.exe.manifest
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\ofiBalzh.application
+C:\Users\Administracion\Desktop\usb 32\Proyecto OfiBalzh10\ofiBalzh\obj\Debug\OFIBALZH.csprojResolveAssemblyReference.cache
